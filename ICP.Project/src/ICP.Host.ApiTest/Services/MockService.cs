@@ -382,7 +382,6 @@ namespace ICP.Host.ApiTest.Services
             return true;
         }
 
-
         //private bool SaveMockSetting(string env, MockSetting model)
         //{
         //    var settings = GetAllMockSettings();
